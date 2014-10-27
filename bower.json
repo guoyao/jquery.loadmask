@@ -1,0 +1,17 @@
+{
+  "name": "jquery.loadmask",
+  "version": "0.4",
+  "homepage": "https://github.com/guoyao/jquery.loadmask",
+  "description": "reproduced from code.google.com/p/jquery-loadmask/",
+  "main": [
+    "jquery.loadmask.js",
+    "jquery.loadmask.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "demo"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}

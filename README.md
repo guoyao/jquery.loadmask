@@ -1,0 +1,1 @@
+reproduced from code.google.com/p/jquery-loadmask/
